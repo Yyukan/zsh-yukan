@@ -115,3 +115,8 @@ export JAVA_HOME=`/usr/libexec/java_home -v '10'`
 setopt noincappendhistory
 setopt nosharehistory
 setopt appendhistory
+
+#
+# Syntax
+#
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
