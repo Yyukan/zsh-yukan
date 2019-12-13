@@ -11,11 +11,13 @@ Profiles -> Text -> Font -> Ubuntu mono derivative Powerline -> Regular - 16
 ```
 
 https://github.com/powerline/fonts/blob/master/UbuntuMono/Ubuntu%20Mono%20derivative%20Powerline.ttf
+https://ethanschoonover.com/solarized/
 
 ## ZSh
 ```sh
 $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+https://github.com/Yyukan/zsh-yukan/blob/master/zshrc
 
 ## Vim
 https://github.com/Yyukan/vim-yyukan
