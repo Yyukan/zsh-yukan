@@ -1,17 +1,20 @@
 # Mac Setup
 
-## iTerm2
+## Color scheme
+https://ethanschoonover.com/solarized/
 
+## Fonts
+https://github.com/powerline/fonts/blob/master/UbuntuMono/Ubuntu%20Mono%20derivative%20Powerline.ttf
+
+## iTerm2
 ```
 Profiles -> Colors -> Solorized Dark 
 Foreground - 70% gray
 Background - 10% gray 
 
 Profiles -> Text -> Font -> Ubuntu mono derivative Powerline -> Regular - 16
+Profiles -> Text -> Text Rendering -> Draw bold text in bright colors
 ```
-
-https://github.com/powerline/fonts/blob/master/UbuntuMono/Ubuntu%20Mono%20derivative%20Powerline.ttf
-https://ethanschoonover.com/solarized/
 
 ## ZSh
 ```
