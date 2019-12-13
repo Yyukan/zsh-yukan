@@ -4,8 +4,8 @@
 
 ```
 Profiles -> Colors -> Solorized Dark 
-Foreground - 30% gray
-Background - 80% gray 
+Foreground - 70% gray
+Background - 10% gray 
 
 Profiles -> Text -> Font -> Ubuntu mono derivative Powerline -> Regular - 16
 ```
@@ -14,7 +14,7 @@ https://github.com/powerline/fonts/blob/master/UbuntuMono/Ubuntu%20Mono%20deriva
 https://ethanschoonover.com/solarized/
 
 ## ZSh
-```sh
+```
 $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 https://github.com/Yyukan/zsh-yukan/blob/master/zshrc
