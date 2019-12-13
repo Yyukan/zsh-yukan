@@ -48,4 +48,5 @@ cassandra
 kafka zookeeper
 postgresql
 sqlite
+httpie
 ```
