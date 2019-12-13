@@ -16,7 +16,6 @@ https://github.com/powerline/fonts/blob/master/UbuntuMono/Ubuntu%20Mono%20deriva
 ```sh
 $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-https://github.com/Yyukan/zsh-yukan
 
 ## Vim
 https://github.com/Yyukan/vim-yyukan
