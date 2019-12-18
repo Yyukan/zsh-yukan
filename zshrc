@@ -63,7 +63,7 @@ prompt_context(){}
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-  git scala sbt
+  git scala sbt kubectl
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -115,6 +115,12 @@ export JAVA_HOME=`/usr/libexec/java_home -v '10'`
 setopt noincappendhistory
 setopt nosharehistory
 setopt appendhistory
+
+#
+# FZF
+#
+export FZF_DEFAULT_OPTS='--height 40% --layout=reverse --border'
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 #
 # Syntax
