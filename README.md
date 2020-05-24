@@ -28,7 +28,7 @@ https://github.com/Yyukan/vim-yyukan
 ## Brew
 ```
 zsh zsh-completions zsh-syntax-highlighting
-midnight-commander fzf            
+midnight-commander fzf tmux           
 scala sbt bloop mill ammonite-repl coursier giter8                  
 ifstat telnet htop watch wget jq httpie
 coreutils        
