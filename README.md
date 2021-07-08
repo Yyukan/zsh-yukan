@@ -55,4 +55,19 @@ Profiles -> PROFILE -> Command > Send text at start
 tmux ls && read tmux_session && tmux attach -t ${tmux_session:-default} || tmux new -s ${tmux_session:-default}
 ```
 
+## Java
+```
+brew install jenv
+brew install java
+brew install AdoptOpenJDK/openjdk/adoptopenjdk{11,14}
+/usr/libexec/java_home -V
+
+jenv add /Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/
+jenv add /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home
+jenv add /Library/Java/JavaVirtualMachines/adoptopenjdk-14.jdk/Contents/Home/
+
+jenv versions
+jenv global 11
+```
+
 
